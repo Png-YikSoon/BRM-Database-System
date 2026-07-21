@@ -1,13 +1,3 @@
---*****PLEASE ENTER YOUR DETAILS BELOW*****
---T3-brm-dm.sql
-
---Student ID: 34600329
---Student Name: P'ng Yik Soon
-
-/*
-    -- Submission Declaration - must not be removed - removal will result in no marks being awarded --
-    In submitting this SQL script, I confirm that this is my own work without coding assistance from Generative AI
-*/
 --3(a)
 DROP SEQUENCE employee_seq;
 

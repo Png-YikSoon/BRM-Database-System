@@ -1,4 +1,4 @@
-//use("abc001");
+//example use("abc001");
 use("abc001");
 
 // (b)

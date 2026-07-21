@@ -1,22 +1,5 @@
-// *****PLEASE ENTER YOUR DETAILS BELOW*****
-// T6-brm-mongo.mongodb.js
-
-// Student ID: 34600329
-// Student Name: P'ng Yik Soon
-
-// ===================================================================================
-// DO NOT modify or remove any of the comments below (items marked with //)
-// Do not use .pretty() in your code, it is not required
-//
-// -- Submission Declaration - must not be removed - removal will result in no marks being awarded --
-// In submitting this SQL script, I confirm that this is my own work without coding assistance from Generative AI
-// ===================================================================================
-
-// Use (connect to) your database - you MUST update xyz001
-// with your authcate username
-
 //use("abc001");
-use("ypng0001");
+use("abc001");
 
 // (b)
 // PLEASE PLACE REQUIRED MONGODB COMMAND TO CREATE THE COLLECTION HERE

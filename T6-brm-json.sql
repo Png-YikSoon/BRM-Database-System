@@ -1,14 +1,3 @@
-/*****PLEASE ENTER YOUR DETAILS BELOW*****/
---T6-brm-json.sql
-
---Student ID: 34600329
---Student Name: P'ng Yik Soon
-
-/*
-    -- Submission Declaration - must not be removed - removal will result in no marks being awarded --
-    In submitting this SQL script, I confirm that this is my own work without coding assistance from Generative AI
-*/
-
 SET PAGESIZE 100
 SET WRAP OFF
 SET HEADING OFF

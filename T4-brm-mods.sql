@@ -1,14 +1,3 @@
---*****PLEASE ENTER YOUR DETAILS BELOW*****
---T4-brm-mods.sql
-
---Student ID: 34600329
---Student Name: P'ng Yik Soon
-
-/*
-    -- Submission Declaration - must not be removed - removal will result in no marks being awarded --
-    In submitting this SQL script, I confirm that this is my own work without coding assistance from Generative AI
-*/
-
 --4(a)
 ALTER TABLE quote ADD (
     quote_assigned          CHAR(1) DEFAULT 'N' NOT NULL,

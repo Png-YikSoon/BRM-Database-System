@@ -1,14 +1,4 @@
-/*****PLEASE ENTER YOUR DETAILS BELOW*****/
---T2-brm-insert.sql
-
---Student ID: 34600329
---Student Name: P'ng Yik Soon
-
 /*
-Indicate if AI was used (Yes/No): Yes
-
-If AI was used:
-I used Gemini (https://gemini.google.com/) for populating sample data only for this task
 
 I used these prompts:
 EMPLOYEE — at least 10 entries:

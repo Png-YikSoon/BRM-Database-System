@@ -1,15 +1,3 @@
---*****PLEASE ENTER YOUR DETAILS BELOW*****
---T1-brm-schema.sql
-
---Student ID: 34600329
---Student Name: P'ng Yik Soon
-
-/*
-    -- Submission Declaration - must not be removed - removal will result in no marks being awarded --
-    In submitting this SQL script, I confirm that this is my own work without coding assistance from Generative AI
-*/
-
-
 /* drop table statements - do not remove*/
 
 DROP TABLE employee CASCADE CONSTRAINTS PURGE;
